@@ -1,4 +1,4 @@
-# ReduceRuseRecycle
+# ReduceReuseRecycle
 >  ReduceRuseRecycle is a great optimal solution from two different sides:
 1- it gives you the oppurtinity to contribute with your suggestion and idea about recycling so all people can use your knowledge in a good way 
 2- you have the chance also to sell your extra items instead of throughing them out 
@@ -12,26 +12,12 @@
 
 ## Table of Contents
 
+1. [Installing Dependencies](#Installing Dependencies)
 1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
-    1. [Installing Dependencies](#installing-dependencies)
-    1. [Tasks](#tasks)
-1. [Team](#team)
-1. [Contributing](#contributing)
+1. [Deployment](#Deployment)
+1. [Requirements](#Requirements)
+1. [Roadmap](#Roadmap)
 
-## Usage
-
-> Some usage instructions
-
-## Requirements
-
-- Node v6.14.1
-  Express framwork
-- MongoDB 
-- reactJS 
-
-## Development
 
 ### Installing Dependencies
 
@@ -44,11 +30,27 @@ in another terminal npm run server-dev
 in another terminal npm run react-dev 
 ```
 
+
+## Usage
+
+> * you can sign up, log in 
+> * display your products
+> * Contact the product owner
+
+## Deployment
+[Recycling-Live demo](https://www.youtube.com/watch?v=kdXiuE6DJ9w&feature=youtu.be)
+
+## Requirements
+
+- Node v6.14.1
+  Express framwork
+- MongoDB 
+- reactJS 
+
+
+
 ### Roadmap
 
 View the project roadmap [here](https://github.com/Zuse-RBK/Zuse-RBK/issues)
 
 
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
