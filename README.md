@@ -6,9 +6,9 @@
 
 ## Team
 
-  - __Product Owner__: Wa'ed Alshiyyab
-  - __Scrum Master__: Hanan Nouman	
-  - __Development Team Members__: Lena Salamat Yussur Alani 
+  - __Product Owner__: [Wa'ed Alshiyyab](https://github.com/Waed93)
+  - __Scrum Master__: [Hanan Nouman](https://github.com/HananNouman)	
+  - __Development Team Members__: [Lena Salamat](https://github.com/lenaSalamat) ,[Yussur Alani](https://github.com/Yussur90) 
 
 ## Table of Contents
 
